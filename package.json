@@ -1,0 +1,24 @@
+{
+  "name": "to-do-app",
+  "version": "1.0.0",
+  "description": "a little to-do app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darko875/To-do-App.git"
+  },
+  "author": "Darko875",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darko875/To-do-App/issues"
+  },
+  "homepage": "https://github.com/Darko875/To-do-App#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
