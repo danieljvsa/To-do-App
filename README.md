@@ -30,7 +30,12 @@ Clone o projeto e acesse a pasta do mesmo.
 ```bash
 $ git clone https://github.com/danieljvsa/To-do-App
 $ cd To-do-App
+```
+Para iniciar a app.
+
+```bash
 $ npm install
+$ node app.js
 ```
 Tem de criar um banco de dados no MongoDB ou no [MongoAtlas](https://www.mongodb.com/)
 
